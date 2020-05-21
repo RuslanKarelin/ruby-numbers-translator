@@ -19,10 +19,10 @@ module NumbersTranslator
       )
       engine.run
     end
-  end
+    
+    private
 
-  private
-
-  def initialize
+    def initialize
+    end
   end
 end
